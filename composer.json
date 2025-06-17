@@ -1,5 +1,5 @@
 {
-    "name": "Ganeshk007/migration-generator",
+    "name": "ganeshk007/migration-generator",
     "description": "A Laravel package for generate migrations",
     "type": "library",
     "keywords": [
