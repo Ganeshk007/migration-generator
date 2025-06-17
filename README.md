@@ -1,7 +1,7 @@
 # Laravel Migration Generator
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ganeshk007/migration-generator.svg?style=flat-square)](https://packagist.org/packages/ganeshk007/migration-generator)
-[![Total Downloads](https://img.shields.io/packagist/dt/ganeshk007/migration-generator.svg?style=flat-square&cacheBust=1)](https://packagist.org/packages/ganeshk007/migration-generator)
+[![Total Downloads](https://img.shields.io/packagist/dt/ganeshk007/migration-generator.svg?style=flat-square&cacheBust=2)](https://packagist.org/packages/ganeshk007/migration-generator)
 
 A Laravel package to generate migration files from existing database tables — perfect for legacy projects that don't have migrations. This tool helps developers generate migration files for all tables in one go, improving workflow and making future table changes manageable.
 
